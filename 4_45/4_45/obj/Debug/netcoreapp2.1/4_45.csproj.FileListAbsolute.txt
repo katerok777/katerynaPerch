@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\4_45\4_45\bin\Debug\netcoreapp2.1\4_45.deps.json
+C:\Users\User\source\repos\4_45\4_45\bin\Debug\netcoreapp2.1\4_45.runtimeconfig.json
+C:\Users\User\source\repos\4_45\4_45\bin\Debug\netcoreapp2.1\4_45.runtimeconfig.dev.json
+C:\Users\User\source\repos\4_45\4_45\bin\Debug\netcoreapp2.1\4_45.dll
+C:\Users\User\source\repos\4_45\4_45\bin\Debug\netcoreapp2.1\4_45.pdb
+C:\Users\User\source\repos\4_45\4_45\obj\Debug\netcoreapp2.1\4_45.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\4_45\4_45\obj\Debug\netcoreapp2.1\4_45.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\4_45\4_45\obj\Debug\netcoreapp2.1\4_45.AssemblyInfo.cs
+C:\Users\User\source\repos\4_45\4_45\obj\Debug\netcoreapp2.1\4_45.dll
+C:\Users\User\source\repos\4_45\4_45\obj\Debug\netcoreapp2.1\4_45.pdb
