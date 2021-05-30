@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\4_13_zlatopolskiy\4_13_zlatopolskiy\bin\Debug\netcoreapp2.1\4_13_zlatopolskiy.deps.json
+C:\Users\User\source\repos\4_13_zlatopolskiy\4_13_zlatopolskiy\bin\Debug\netcoreapp2.1\4_13_zlatopolskiy.runtimeconfig.json
+C:\Users\User\source\repos\4_13_zlatopolskiy\4_13_zlatopolskiy\bin\Debug\netcoreapp2.1\4_13_zlatopolskiy.runtimeconfig.dev.json
+C:\Users\User\source\repos\4_13_zlatopolskiy\4_13_zlatopolskiy\bin\Debug\netcoreapp2.1\4_13_zlatopolskiy.dll
+C:\Users\User\source\repos\4_13_zlatopolskiy\4_13_zlatopolskiy\bin\Debug\netcoreapp2.1\4_13_zlatopolskiy.pdb
+C:\Users\User\source\repos\4_13_zlatopolskiy\4_13_zlatopolskiy\obj\Debug\netcoreapp2.1\4_13_zlatopolskiy.csprojAssemblyReference.cache
+C:\Users\User\source\repos\4_13_zlatopolskiy\4_13_zlatopolskiy\obj\Debug\netcoreapp2.1\4_13_zlatopolskiy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\4_13_zlatopolskiy\4_13_zlatopolskiy\obj\Debug\netcoreapp2.1\4_13_zlatopolskiy.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\4_13_zlatopolskiy\4_13_zlatopolskiy\obj\Debug\netcoreapp2.1\4_13_zlatopolskiy.AssemblyInfo.cs
+C:\Users\User\source\repos\4_13_zlatopolskiy\4_13_zlatopolskiy\obj\Debug\netcoreapp2.1\4_13_zlatopolskiy.dll
+C:\Users\User\source\repos\4_13_zlatopolskiy\4_13_zlatopolskiy\obj\Debug\netcoreapp2.1\4_13_zlatopolskiy.pdb
